@@ -1,0 +1,14 @@
+#Intelij
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+#Maven
+**/target
+**/.mvn
+
+#others
+**/.DS_Store
+**/._.DS_Store
+**/__MACOSX
